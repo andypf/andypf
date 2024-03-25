@@ -12,7 +12,7 @@ I'm a seasoned developer with a passion for crafting exceptional software experi
 
 ### Tech Stack:
 
-- Languages: JavaScript, Ruby, Java, Go
+- Languages: JavaScript, Ruby, Java
 - Frameworks: React, Ruby on Rails, jQuery
 - Other Tools & Technologies: HTML/CSS
 
