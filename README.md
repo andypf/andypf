@@ -24,4 +24,4 @@ I'm a seasoned developer with a passion for crafting exceptional software experi
 
 Let's build something awesome together! 🚀
 
-!(https://github-readme-stats.vercel.app/api?username=andypf&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=andypf&show_icons=true&theme=radical)
