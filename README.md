@@ -15,7 +15,7 @@ I'm a seasoned developer with a passion for crafting exceptional software experi
 
 - Languages: JavaScript, Ruby, Java
 - Frameworks: React, Ruby on Rails, jQuery
-- Other Tools & Technologies: HTML/CSS
+- Other Tools & Technologies: HTML/CSS, K8s, Concourse
 
 ### Get in Touch:
 
@@ -24,17 +24,24 @@ I'm a seasoned developer with a passion for crafting exceptional software experi
 
 Let's build something awesome together! 🚀
 
+
 <a href="https://github.com/andypf/andypf#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=andypf&show_icons=true&theme=dark" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=andypf&show_icons=true&include_all_commits=true&hide_rank=true&theme=dark" />
 </a>
 <a href="https://github.com/andypf/andypf#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=andypf&show_icons=true" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=andypf&show_icons=true" />
 </a>
 
 <a href="https://github.com/andypf/andypf#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andypf&hide_progress=false&theme=dark" />
+  <img src="https://api.githubtrends.io/user/svg/andypf/langs?time_range=one_year&theme=dark"/>
 </a>
 <a href="https://github.com/andypf/andypf#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andypf&hide_progress=false" />
+  <img src="https://api.githubtrends.io/user/svg/andypf/langs?time_range=one_year&theme=classic"/>
 </a>
 
+<a href="https://github.com/andypf/andypf#gh-dark-mode-only">
+  <img src="https://api.githubtrends.io/user/svg/andypf/repos?time_range=one_year&include_all_commits=true&theme=dark"/>
+</a>
+<a href="https://github.com/andypf/andypf#gh-light-mode-only">
+  <img src="https://api.githubtrends.io/user/svg/andypf/repos?time_range=one_year&include_all_commits=true&theme=classic"/>
+</a>
