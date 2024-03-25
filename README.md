@@ -1,4 +1,4 @@
-## 👋 Hello there! Welcome to my GitHub profile!
+## Hi there 👋, Andreas Pfau
 
 I'm a seasoned developer with a passion for crafting exceptional software experiences. With over a decade of industry experience, I've journeyed from freelancing to contributing my expertise at SAP. My coding adventures began with Ruby on Rails and blossomed into a love affair with JavaScript, especially diving deep into the world of React.
 
@@ -24,4 +24,17 @@ I'm a seasoned developer with a passion for crafting exceptional software experi
 
 Let's build something awesome together! 🚀
 
-![Stats](https://github-readme-stats.vercel.app/api?username=andypf&show_icons=true&theme=radical)
+<a href="https://github.com/andypf/andypf#gh-dark-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=andypf&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/andypf/andypf#gh-light-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=andypf&show_icons=true" />
+</a>
+
+<a href="https://github.com/andypf/andypf#gh-dark-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andypf&hide_progress=false&theme=dark" />
+</a>
+<a href="https://github.com/andypf/andypf#gh-light-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andypf&hide_progress=false" />
+</a>
+
