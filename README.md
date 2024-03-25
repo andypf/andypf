@@ -2,7 +2,6 @@
 
 I'm a seasoned developer with a passion for crafting exceptional software experiences. With over a decade of industry experience, I've journeyed from freelancing to contributing my expertise at SAP. My coding adventures began with Ruby on Rails and blossomed into a love affair with JavaScript, especially diving deep into the world of React.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ### About Me:
 
@@ -24,3 +23,5 @@ I'm a seasoned developer with a passion for crafting exceptional software experi
 - 🔗 Explore my projects and contributions below.
 
 Let's build something awesome together! 🚀
+
+!(https://github-readme-stats.vercel.app/api?username=andypf&show_icons=true&theme=radical)
