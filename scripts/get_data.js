@@ -176,4 +176,5 @@ loadData().then((data) => {
   // store data to stats/data.json
   fs.writeFileSync(options.file, JSON.stringify(data, null, 2))
   console.log("DONE!")
-})
+}).catch((error) => console.error(error))
+
