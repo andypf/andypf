@@ -2,7 +2,7 @@ name: user-statistician
 
 on:
   schedule:
-    - cron: '0 3 * * *'
+    - cron: '5 0 * * *'
   workflow_dispatch:
 permissions:
   contents: write
@@ -22,11 +22,11 @@ jobs:
     - name: generate
       run: |
         cd scripts
-
+        # get data and generate svgs
         node ./get_data.js --user=${{ github.repository_owner }} --gh-token=${{secrets.GITHUB_TOKEN}} --file="../stats/data.json" && \
         node ./generate_svgs.js --src="../stats/data.json" --outdir="../stats" 
-        rm -f ../stats/index.html ../stats/data.json
-        
+        # cleanup
+        rm -f ../stats/data.json
         
     - name: Commit to the repo
       run: |
