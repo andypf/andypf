@@ -92,7 +92,7 @@ async function loadData() {
   // fetch user data
   // it gives us the user's repositories, issues, pull requests, etc
   const userData = await fetchData(getUserData()).catch((error) => console.error(error))
-  console.log("==",userData)
+  // console.log("==",userData)
   // initialize the stats, count the stars, languages and most contributed to repos
   let starsCount = 0,
     languages = {}
