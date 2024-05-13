@@ -31,7 +31,7 @@ Let's build something awesome together! 🚀
 <a href="https://github.com/andypf/andypf#gh-light-mode-only">
   <img align="top" src="stats/overview_light.svg" />
 </a>
-<br/>
+
 <a href="https://github.com/andypf/andypf#gh-dark-mode-only">
   <img src="stats/languages_dark.svg"/>
 </a>
