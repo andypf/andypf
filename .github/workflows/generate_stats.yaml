@@ -24,7 +24,9 @@ jobs:
         cd scripts
 
         node ./get_data.js --user=${{ github.repository_owner }} --gh-token=${{secrets.GITHUB_TOKEN}} --file="../stats/data.json" && \
-        node ./generate_svgs.js --src="../stats/data.json" --outdir="../stats"
+        node ./generate_svgs.js --src="../stats/data.json" --outdir="../stats" 
+        rm -f ../stats/index.html ../stats/data.json
+        
         
     - name: Commit to the repo
       run: |
