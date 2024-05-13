@@ -19,7 +19,7 @@ jobs:
 
     - name: generate
       run: |
-        cd srcipts
+        cd scripts
 
         node ./get_data.js --user=${{ github.owner }} --gh-token=${{secrets.GITHUB_TOKEN}} --file="../stats/data.json"
         node ./generate_svgs.js --src="../stats/data.json" --outdir="../stats"
