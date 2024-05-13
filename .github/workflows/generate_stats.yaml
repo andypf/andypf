@@ -18,9 +18,12 @@ jobs:
         node-version: "20.x"
 
     - name: generate
+      env:
+        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
       run: |
         pwd
         ls -la
+        env
           
     - name: Generate the user stats image
       uses: cicirello/user-statistician@v1
