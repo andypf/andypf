@@ -26,6 +26,9 @@ Let's build something awesome together! 🚀
 
 
 <a href="https://github.com/andypf/andypf#gh-dark-mode-only">
+  <img align="top" src="stats/overview_dark.svg" />
+</a>
+<a href="https://github.com/andypf/andypf#gh-dark-mode-only">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=andypf&show_icons=true&include_all_commits=true&hide_rank=true&theme=dark" />
 </a>
 <a href="https://github.com/andypf/andypf#gh-light-mode-only">
