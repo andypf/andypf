@@ -1,0 +1,100 @@
+
+  <svg xmlns="http://www.w3.org/2000/svg" width="320" height="235" viewBox="0 0 320 235" fill="none" role="img">
+    <title>
+      Top Repositories
+    </title>
+    <style>
+  .header {
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 18px;
+    fill: #fff;
+  }
+
+  .text {
+    font-family: sans-serif;
+    fill: #9f9f9f;
+    font-size: 14px;
+  }
+  .small {
+    font-size: 12px;
+  }
+
+  .icon {
+    fill: #79ff97;
+  }
+
+  .fade-in {
+    opacity: 0;
+    animation: fadeInAnimation 0.8s ease-in-out forwards;
+  } 
+  @keyframes fadeInAnimation {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+</style>
+    <rect class="container" x="0" y="0" width="100%" height="100%" rx="4.5" fill="#151515" stroke="#e4e2e2">
+    </rect>
+    <g transform="translate(25,35)">
+      <text class="header fade-in">
+        Top Repositories
+      </text>
+    </g>
+    
+        <g class="fade-in" style="animation-delay: 450ms" transform="translate(25,60)">
+
+          <text class="text small">sapcc/elektra</text>
+          <g transform="translate(0,10)">
+            <rect fill="#333" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
+            <rect fill="#fff" height="8" rx="5" ry="5" width="128.8883495960713"/>
+          </g>
+          <text class="text small" x="220" y="18">66.1%</text>
+        </g>
+       
+        <g class="fade-in" style="animation-delay: 750ms" transform="translate(25,95)">
+
+          <text class="text small">sapcc/juno</text>
+          <g transform="translate(0,10)">
+            <rect fill="#333" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
+            <rect fill="#fff" height="8" rx="5" ry="5" width="52.75757598160343"/>
+          </g>
+          <text class="text small" x="220" y="18">27.1%</text>
+        </g>
+       
+        <g class="fade-in" style="animation-delay: 1050ms" transform="translate(25,130)">
+
+          <text class="text small">andypf/json-viewer</text>
+          <g transform="translate(0,10)">
+            <rect fill="#333" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
+            <rect fill="#fff" height="8" rx="5" ry="5" width="10.166681368956983"/>
+          </g>
+          <text class="text small" x="220" y="18">5.2%</text>
+        </g>
+       
+        <g class="fade-in" style="animation-delay: 1350ms" transform="translate(25,165)">
+
+          <text class="text small">sapcc/juno-assets-server</text>
+          <g transform="translate(0,10)">
+            <rect fill="#333" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
+            <rect fill="#fff" height="8" rx="5" ry="5" width="1.909923995841925"/>
+          </g>
+          <text class="text small" x="220" y="18">1.0%</text>
+        </g>
+       
+        <g class="fade-in" style="animation-delay: 1650ms" transform="translate(25,200)">
+
+          <text class="text small">andypf/react-data-grid</text>
+          <g transform="translate(0,10)">
+            <rect fill="#333" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
+            <rect fill="#fff" height="8" rx="5" ry="5" width="1.2774690575263865"/>
+          </g>
+          <text class="text small" x="220" y="18">0.7%</text>
+        </g>
+      
+
+  </svg>
+  
