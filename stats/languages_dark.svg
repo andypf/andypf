@@ -50,7 +50,7 @@
           <text class="text small">JavaScript</text>
           <g transform="translate(0,10)">
             <rect fill="#333" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#f1e05a" height="8" rx="5" ry="5" width="120.54772241240565" x="0.0" y="0"/>
+            <rect fill="#f1e05a" height="8" rx="5" ry="5" width="120.54775139824665" x="0.0" y="0"/>
           </g>
           <text class="text small" x="220" y="18">61.8% </text>
         </g>
@@ -60,7 +60,7 @@
           <text class="text small">Ruby</text>
           <g transform="translate(0,10)">
             <rect fill="#333" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#701516" height="8" rx="5" ry="5" width="43.49450648278246" x="0.0" y="0"/>
+            <rect fill="#701516" height="8" rx="5" ry="5" width="43.49448954945429" x="0.0" y="0"/>
           </g>
           <text class="text small" x="220" y="18">22.3% </text>
         </g>
@@ -70,7 +70,7 @@
           <text class="text small">Haml</text>
           <g transform="translate(0,10)">
             <rect fill="#333" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#ece2a9" height="8" rx="5" ry="5" width="14.734323299357271" x="0.0" y="0"/>
+            <rect fill="#ece2a9" height="8" rx="5" ry="5" width="14.734317562974633" x="0.0" y="0"/>
           </g>
           <text class="text small" x="220" y="18">7.6% </text>
         </g>
@@ -80,7 +80,7 @@
           <text class="text small">HTML</text>
           <g transform="translate(0,10)">
             <rect fill="#333" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#e34c26" height="8" rx="5" ry="5" width="10.457325915985258" x="0.0" y="0"/>
+            <rect fill="#e34c26" height="8" rx="5" ry="5" width="10.457321844727854" x="0.0" y="0"/>
           </g>
           <text class="text small" x="220" y="18">5.4% </text>
         </g>
@@ -90,7 +90,7 @@
           <text class="text small">SCSS</text>
           <g transform="translate(0,10)">
             <rect fill="#333" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#c6538c" height="8" rx="5" ry="5" width="5.766121889469367" x="0.0" y="0"/>
+            <rect fill="#c6538c" height="8" rx="5" ry="5" width="5.766119644596574" x="0.0" y="0"/>
           </g>
           <text class="text small" x="220" y="18">3.0% </text>
         </g>
