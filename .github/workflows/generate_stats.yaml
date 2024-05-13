@@ -23,3 +23,12 @@ jobs:
 
         node ./get_data.js --user=${{ github.repository_owner }} --gh-token=${{secrets.STATS_PAT}} --file="../stats/data.json" && \
         node ./generate_svgs.js --src="../stats/data.json" --outdir="../stats"
+        
+    - name: Commit to the repo
+      run: |
+        git config --global user.name "andypf/andypf"
+        git config --global user.email "github-stats[bot]@jandypf.github.io"
+        git add .
+        # "echo" returns true so the build succeeds, even if no changed files
+        git commit -m 'Update generated files' || echo
+        git push
