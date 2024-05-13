@@ -28,23 +28,20 @@ Let's build something awesome together! 🚀
 <a href="https://github.com/andypf/andypf#gh-dark-mode-only">
   <img align="top" src="stats/overview_dark.svg" />
 </a>
-<a href="https://github.com/andypf/andypf#gh-dark-mode-only">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=andypf&show_icons=true&include_all_commits=true&hide_rank=true&theme=dark" />
-</a>
 <a href="https://github.com/andypf/andypf#gh-light-mode-only">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=andypf&show_icons=true" />
+  <img align="top" src="stats/overview_light.svg" />
 </a>
 <br/><br/>
 <a href="https://github.com/andypf/andypf#gh-dark-mode-only">
-  <img src="https://api.githubtrends.io/user/svg/andypf/langs?time_range=one_year&theme=dark"/>
+  <img src="stats/languages_dark.svg"/>
 </a>
 <a href="https://github.com/andypf/andypf#gh-light-mode-only">
-  <img src="https://api.githubtrends.io/user/svg/andypf/langs?time_range=one_year&theme=classic"/>
+  <img src="stats/languages_light.svg"/>
 </a>
 
 <a href="https://github.com/andypf/andypf#gh-dark-mode-only">
-  <img src="https://api.githubtrends.io/user/svg/andypf/repos?time_range=one_year&include_all_commits=true&theme=dark"/>
+  <img src="stats/top_repos_dark.svg"/>
 </a>
 <a href="https://github.com/andypf/andypf#gh-light-mode-only">
-  <img src="https://api.githubtrends.io/user/svg/andypf/repos?time_range=one_year&include_all_commits=true&theme=classic"/>
+  <img src="stats/top_repos_light.svg"/>
 </a>
