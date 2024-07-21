@@ -50,7 +50,7 @@
           <text class="text small">sapcc/elektra</text>
           <g transform="translate(0,10)">
             <rect fill="#333" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#fff" height="8" rx="5" ry="5" width="139.3415358561511"/>
+            <rect fill="#fff" height="8" rx="5" ry="5" width="139.35202359426816"/>
           </g>
           <text class="text small" x="220" y="18">71.5%</text>
         </g>
@@ -60,7 +60,7 @@
           <text class="text small">cloudoperators/juno</text>
           <g transform="translate(0,10)">
             <rect fill="#333" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#fff" height="8" rx="5" ry="5" width="41.373289554414534"/>
+            <rect fill="#fff" height="8" rx="5" ry="5" width="41.36172662239257"/>
           </g>
           <text class="text small" x="220" y="18">21.2%</text>
         </g>
@@ -70,7 +70,7 @@
           <text class="text small">andypf/json-viewer</text>
           <g transform="translate(0,10)">
             <rect fill="#333" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#fff" height="8" rx="5" ry="5" width="10.854287765555473"/>
+            <rect fill="#fff" height="8" rx="5" ry="5" width="10.855104728902642"/>
           </g>
           <text class="text small" x="220" y="18">5.6%</text>
         </g>
@@ -80,7 +80,7 @@
           <text class="text small">sapcc/juno-assets-server</text>
           <g transform="translate(0,10)">
             <rect fill="#333" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#fff" height="8" rx="5" ry="5" width="2.055828372035748"/>
+            <rect fill="#fff" height="8" rx="5" ry="5" width="2.055983106870893"/>
           </g>
           <text class="text small" x="220" y="18">1.1%</text>
         </g>
@@ -90,7 +90,7 @@
           <text class="text small">andypf/react-data-grid</text>
           <g transform="translate(0,10)">
             <rect fill="#333" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#fff" height="8" rx="5" ry="5" width="1.3750584518431668"/>
+            <rect fill="#fff" height="8" rx="5" ry="5" width="1.3751619475657453"/>
           </g>
           <text class="text small" x="220" y="18">0.7%</text>
         </g>
