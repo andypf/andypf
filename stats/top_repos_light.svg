@@ -50,7 +50,7 @@
           <text class="text small">sapcc/elektra</text>
           <g transform="translate(0,10)">
             <rect fill="#ddd" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="112.7720596606271"/>
+            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="112.76652127853777"/>
           </g>
           <text class="text small" x="220" y="18">57.8%</text>
         </g>
@@ -60,7 +60,7 @@
           <text class="text small">cloudoperators/juno</text>
           <g transform="translate(0,10)">
             <rect fill="#ddd" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="58.14830051783578"/>
+            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="58.12413195031348"/>
           </g>
           <text class="text small" x="220" y="18">29.8%</text>
         </g>
@@ -70,7 +70,7 @@
           <text class="text small">cobaltcore-dev/aurora-dashboard</text>
           <g transform="translate(0,10)">
             <rect fill="#ddd" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="12.129880849454391"/>
+            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="12.169260392309528"/>
           </g>
           <text class="text small" x="220" y="18">6.2%</text>
         </g>
@@ -80,7 +80,7 @@
           <text class="text small">andypf/json-viewer</text>
           <g transform="translate(0,10)">
             <rect fill="#ddd" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="10.14029917685942"/>
+            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="10.132091229775755"/>
           </g>
           <text class="text small" x="220" y="18">5.2%</text>
         </g>
@@ -90,7 +90,7 @@
           <text class="text small">sapcc/juno-assets-server</text>
           <g transform="translate(0,10)">
             <rect fill="#ddd" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="1.8094597952233178"/>
+            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="1.8079951490634583"/>
           </g>
           <text class="text small" x="220" y="18">0.9%</text>
         </g>
