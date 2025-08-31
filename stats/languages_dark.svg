@@ -50,7 +50,7 @@
           <text class="text small">TypeScript</text>
           <g transform="translate(0,10)">
             <rect fill="#333" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#3178c6" height="8" rx="5" ry="5" width="151.9287268998723" x="0.0" y="0"/>
+            <rect fill="#3178c6" height="8" rx="5" ry="5" width="151.9337270616538" x="0.0" y="0"/>
           </g>
           <text class="text small" x="220" y="18">77.9% </text>
         </g>
@@ -60,9 +60,9 @@
           <text class="text small">JavaScript</text>
           <g transform="translate(0,10)">
             <rect fill="#333" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#f1e05a" height="8" rx="5" ry="5" width="15.308951749741563" x="0.0" y="0"/>
+            <rect fill="#f1e05a" height="8" rx="5" ry="5" width="15.307174527246278" x="0.0" y="0"/>
           </g>
-          <text class="text small" x="220" y="18">7.9% </text>
+          <text class="text small" x="220" y="18">7.8% </text>
         </g>
        
         <g class="fade-in" style="animation-delay: 1050ms" transform="translate(25,130)">
@@ -70,7 +70,7 @@
           <text class="text small">HTML</text>
           <g transform="translate(0,10)">
             <rect fill="#333" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#e34c26" height="8" rx="5" ry="5" width="14.89819927064376" x="0.0" y="0"/>
+            <rect fill="#e34c26" height="8" rx="5" ry="5" width="14.896469732572452" x="0.0" y="0"/>
           </g>
           <text class="text small" x="220" y="18">7.6% </text>
         </g>
@@ -80,7 +80,7 @@
           <text class="text small">CSS</text>
           <g transform="translate(0,10)">
             <rect fill="#333" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#663399" height="8" rx="5" ry="5" width="10.847366050383492" x="0.0" y="0"/>
+            <rect fill="#663399" height="8" rx="5" ry="5" width="10.846106775204207" x="0.0" y="0"/>
           </g>
           <text class="text small" x="220" y="18">5.6% </text>
         </g>
@@ -90,7 +90,7 @@
           <text class="text small">Shell</text>
           <g transform="translate(0,10)">
             <rect fill="#333" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#89e051" height="8" rx="5" ry="5" width="2.0167560293588966" x="0.0" y="0"/>
+            <rect fill="#89e051" height="8" rx="5" ry="5" width="2.016521903323263" x="0.0" y="0"/>
           </g>
           <text class="text small" x="220" y="18">1.0% </text>
         </g>
