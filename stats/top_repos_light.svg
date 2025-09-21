@@ -50,9 +50,9 @@
           <text class="text small">cloudoperators/juno</text>
           <g transform="translate(0,10)">
             <rect fill="#ddd" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="118.2592816152285"/>
+            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="118.8201784846286"/>
           </g>
-          <text class="text small" x="220" y="18">60.6%</text>
+          <text class="text small" x="220" y="18">60.9%</text>
         </g>
        
         <g class="fade-in" style="animation-delay: 750ms" transform="translate(25,95)">
@@ -60,9 +60,9 @@
           <text class="text small">cobaltcore-dev/aurora-dashboard</text>
           <g transform="translate(0,10)">
             <rect fill="#ddd" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="51.87473756036112"/>
+            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="51.49579684486703"/>
           </g>
-          <text class="text small" x="220" y="18">26.6%</text>
+          <text class="text small" x="220" y="18">26.4%</text>
         </g>
        
         <g class="fade-in" style="animation-delay: 1050ms" transform="translate(25,130)">
@@ -70,7 +70,7 @@
           <text class="text small">andypf/json-viewer</text>
           <g transform="translate(0,10)">
             <rect fill="#ddd" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="19.160193155574216"/>
+            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="19.019988951312072"/>
           </g>
           <text class="text small" x="220" y="18">9.8%</text>
         </g>
@@ -80,9 +80,9 @@
           <text class="text small">sapcc/juno-assets-server</text>
           <g transform="translate(0,10)">
             <rect fill="#ddd" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="3.4189761354888377"/>
+            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="3.3939578684716274"/>
           </g>
-          <text class="text small" x="220" y="18">1.8%</text>
+          <text class="text small" x="220" y="18">1.7%</text>
         </g>
        
         <g class="fade-in" style="animation-delay: 1650ms" transform="translate(25,200)">
@@ -90,7 +90,7 @@
           <text class="text small">andypf/react-data-grid</text>
           <g transform="translate(0,10)">
             <rect fill="#ddd" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="2.28681153334733"/>
+            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="2.270077850720692"/>
           </g>
           <text class="text small" x="220" y="18">1.2%</text>
         </g>
