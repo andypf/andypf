@@ -1,28 +1,24 @@
 ## Greetings! 👋 I'm Andreas Pfau.
 
-I'm a seasoned developer with a passion for crafting exceptional software experiences. With over a decade of industry experience, I've journeyed from freelancing to contributing my expertise at SAP. My coding adventures began with Ruby on Rails and blossomed into a love affair with JavaScript, especially diving deep into the world of React.
-
+I'm a Staff Engineer at SAP with a passion for crafting exceptional software and exploring the frontiers of AI. With over a decade of industry experience, I've journeyed from freelancing to architecting scalable solutions at a leading enterprise. My coding adventures began with Ruby on Rails and have evolved into a deep expertise in TypeScript/React and a new fascination with AI agents and LLMs.
 
 ### About Me:
-
-- 💻 Full Stack Developer with a focus on efficiency and scalability.
-- 🚀 Exploring the latest technologies and trends during my daytime coding sessions.
-- 🌟 Committed to writing clean, maintainable code that stands the test of time.
-- 🌱 Currently delving into the fascinating realm of Kubernetes and mastering CD/CI pipelines.
+- 💻 Staff Engineer at SAP, focused on building efficient, scalable, and maintainable systems.
+- 🚀 Actively exploring the world of AI, experimenting with LLMs and autonomous agents.
+- 🌟 Championing clean code, architectural excellence, and best practices.
+- 🌱 Mastering Kubernetes and building robust CI/CD pipelines.
 - 🎨 A keen eye for UI design, always striving for pixel-perfection.
 
 ### Tech Stack:
-
-- Languages: JavaScript, Ruby, Java
-- Frameworks: React, Ruby on Rails, jQuery
-- Other Tools & Technologies: HTML/CSS, K8s, Concourse
+- **Languages**: JavaScript/TypeScript, Ruby, Java
+- **Frameworks & Libraries**: React, Ruby on Rails, Node.js
+- **Cloud & DevOps**: Kubernetes (K8s), Concourse, CI/CD, Docker
+- **AI**: Experimenting with LangChain, OpenAI API, Vector Databases
 
 ### Get in Touch:
+- 📫 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/andreas-pfau-482b995).
+- 🔗 Open to collaborating on innovative AI projects or discussing software architecture.
 
-- 📫 Feel free to reach out to me via [email](mailto:ap@a-pfau.de) or connect on [LinkedIn](https://www.linkedin.com/in/andreas-pfau-482b995).
-- 🔗 Explore my projects and contributions below.
-
-Let's build something awesome together! 🚀
 
 
 <a href="https://github.com/andypf/andypf#gh-dark-mode-only">
