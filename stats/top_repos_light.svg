@@ -50,9 +50,9 @@
           <text class="text small">SAP-cloud-infrastructure/elektra</text>
           <g transform="translate(0,10)">
             <rect fill="#ddd" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="99.05323364389447"/>
+            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="98.83572320420818"/>
           </g>
-          <text class="text small" x="220" y="18">50.8%</text>
+          <text class="text small" x="220" y="18">50.7%</text>
         </g>
        
         <g class="fade-in" style="animation-delay: 750ms" transform="translate(25,95)">
@@ -60,9 +60,9 @@
           <text class="text small">cloudoperators/juno</text>
           <g transform="translate(0,10)">
             <rect fill="#ddd" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="50.00904613537948"/>
+            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="51.0683908839959"/>
           </g>
-          <text class="text small" x="220" y="18">25.6%</text>
+          <text class="text small" x="220" y="18">26.2%</text>
         </g>
        
         <g class="fade-in" style="animation-delay: 1050ms" transform="translate(25,130)">
@@ -70,9 +70,9 @@
           <text class="text small">cobaltcore-dev/aurora-dashboard</text>
           <g transform="translate(0,10)">
             <rect fill="#ddd" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="36.97424313525749"/>
+            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="36.349529367911515"/>
           </g>
-          <text class="text small" x="220" y="18">19.0%</text>
+          <text class="text small" x="220" y="18">18.6%</text>
         </g>
        
         <g class="fade-in" style="animation-delay: 1350ms" transform="translate(25,165)">
@@ -80,9 +80,9 @@
           <text class="text small">andypf/json-viewer</text>
           <g transform="translate(0,10)">
             <rect fill="#ddd" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="7.606212172345843"/>
+            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="7.421968391665993"/>
           </g>
-          <text class="text small" x="220" y="18">3.9%</text>
+          <text class="text small" x="220" y="18">3.8%</text>
         </g>
        
         <g class="fade-in" style="animation-delay: 1650ms" transform="translate(25,200)">
@@ -90,7 +90,7 @@
           <text class="text small">sapcc/juno-assets-server</text>
           <g transform="translate(0,10)">
             <rect fill="#ddd" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="1.3572649131227288"/>
+            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="1.3243881522183962"/>
           </g>
           <text class="text small" x="220" y="18">0.7%</text>
         </g>
