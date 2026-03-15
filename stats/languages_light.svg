@@ -50,9 +50,9 @@
           <text class="text small">TypeScript</text>
           <g transform="translate(0,10)">
             <rect fill="#ddd" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#3178c6" height="8" rx="5" ry="5" width="109.14535730510669" x="0.0" y="0"/>
+            <rect fill="#3178c6" height="8" rx="5" ry="5" width="110.73876921994919" x="0.0" y="0"/>
           </g>
-          <text class="text small" x="220" y="18">56.0% </text>
+          <text class="text small" x="220" y="18">56.8% </text>
         </g>
        
         <g class="fade-in" style="animation-delay: 750ms" transform="translate(25,95)">
@@ -60,9 +60,9 @@
           <text class="text small">JavaScript</text>
           <g transform="translate(0,10)">
             <rect fill="#ddd" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#f1e05a" height="8" rx="5" ry="5" width="47.06674022789802" x="0.0" y="0"/>
+            <rect fill="#f1e05a" height="8" rx="5" ry="5" width="45.99593290300012" x="0.0" y="0"/>
           </g>
-          <text class="text small" x="220" y="18">24.1% </text>
+          <text class="text small" x="220" y="18">23.6% </text>
         </g>
        
         <g class="fade-in" style="animation-delay: 1050ms" transform="translate(25,130)">
@@ -70,9 +70,9 @@
           <text class="text small">Ruby</text>
           <g transform="translate(0,10)">
             <rect fill="#ddd" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#701516" height="8" rx="5" ry="5" width="26.87868819963282" x="0.0" y="0"/>
+            <rect fill="#701516" height="8" rx="5" ry="5" width="26.61974010582616" x="0.0" y="0"/>
           </g>
-          <text class="text small" x="220" y="18">13.8% </text>
+          <text class="text small" x="220" y="18">13.7% </text>
         </g>
        
         <g class="fade-in" style="animation-delay: 1350ms" transform="translate(25,165)">
@@ -80,9 +80,9 @@
           <text class="text small">Haml</text>
           <g transform="translate(0,10)">
             <rect fill="#ddd" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#ece2a9" height="8" rx="5" ry="5" width="6.228915519151159" x="0.0" y="0"/>
+            <rect fill="#ece2a9" height="8" rx="5" ry="5" width="6.094926807134741" x="0.0" y="0"/>
           </g>
-          <text class="text small" x="220" y="18">3.2% </text>
+          <text class="text small" x="220" y="18">3.1% </text>
         </g>
        
         <g class="fade-in" style="animation-delay: 1650ms" transform="translate(25,200)">
@@ -90,9 +90,9 @@
           <text class="text small">HTML</text>
           <g transform="translate(0,10)">
             <rect fill="#ddd" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#e34c26" height="8" rx="5" ry="5" width="5.680298748211305" x="0.0" y="0"/>
+            <rect fill="#e34c26" height="8" rx="5" ry="5" width="5.550630964089786" x="0.0" y="0"/>
           </g>
-          <text class="text small" x="220" y="18">2.9% </text>
+          <text class="text small" x="220" y="18">2.8% </text>
         </g>
       
 
