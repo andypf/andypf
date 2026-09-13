@@ -50,7 +50,7 @@
           <text class="text small">SAP-cloud-infrastructure/elektra</text>
           <g transform="translate(0,10)">
             <rect fill="#333" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#fff" height="8" rx="5" ry="5" width="77.41024471535955"/>
+            <rect fill="#fff" height="8" rx="5" ry="5" width="77.35651231224803"/>
           </g>
           <text class="text small" x="220" y="18">39.7%</text>
         </g>
@@ -60,9 +60,9 @@
           <text class="text small">cobaltcore-dev/aurora-dashboard</text>
           <g transform="translate(0,10)">
             <rect fill="#333" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#fff" height="8" rx="5" ry="5" width="69.0503364557517"/>
+            <rect fill="#fff" height="8" rx="5" ry="5" width="69.17708478452384"/>
           </g>
-          <text class="text small" x="220" y="18">35.4%</text>
+          <text class="text small" x="220" y="18">35.5%</text>
         </g>
        
         <g class="fade-in" style="animation-delay: 1050ms" transform="translate(25,130)">
@@ -70,7 +70,7 @@
           <text class="text small">cloudoperators/juno</text>
           <g transform="translate(0,10)">
             <rect fill="#333" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#fff" height="8" rx="5" ry="5" width="41.9478103437385"/>
+            <rect fill="#fff" height="8" rx="5" ry="5" width="41.88470991370491"/>
           </g>
           <text class="text small" x="220" y="18">21.5%</text>
         </g>
@@ -80,7 +80,7 @@
           <text class="text small">andypf/json-viewer</text>
           <g transform="translate(0,10)">
             <rect fill="#333" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#fff" height="8" rx="5" ry="5" width="5.647676393105165"/>
+            <rect fill="#fff" height="8" rx="5" ry="5" width="5.639180817146009"/>
           </g>
           <text class="text small" x="220" y="18">2.9%</text>
         </g>
@@ -90,7 +90,7 @@
           <text class="text small">sapcc/juno-assets-server</text>
           <g transform="translate(0,10)">
             <rect fill="#333" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#fff" height="8" rx="5" ry="5" width="0.9439320920450789"/>
+            <rect fill="#fff" height="8" rx="5" ry="5" width="0.942512172377223"/>
           </g>
           <text class="text small" x="220" y="18">0.5%</text>
         </g>
