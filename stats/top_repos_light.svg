@@ -50,7 +50,7 @@
           <text class="text small">SAP-cloud-infrastructure/elektra</text>
           <g transform="translate(0,10)">
             <rect fill="#ddd" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="76.59569387929605"/>
+            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="76.64745805288017"/>
           </g>
           <text class="text small" x="220" y="18">39.3%</text>
         </g>
@@ -60,7 +60,7 @@
           <text class="text small">cobaltcore-dev/aurora-dashboard</text>
           <g transform="translate(0,10)">
             <rect fill="#ddd" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="75.74198299812512"/>
+            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="75.65239258293417"/>
           </g>
           <text class="text small" x="220" y="18">38.8%</text>
         </g>
@@ -70,9 +70,9 @@
           <text class="text small">cloudoperators/juno</text>
           <g transform="translate(0,10)">
             <rect fill="#ddd" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="36.539626436045864"/>
+            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="36.59231980742592"/>
           </g>
-          <text class="text small" x="220" y="18">18.7%</text>
+          <text class="text small" x="220" y="18">18.8%</text>
         </g>
        
         <g class="fade-in" style="animation-delay: 1350ms" transform="translate(25,165)">
@@ -80,7 +80,7 @@
           <text class="text small">andypf/json-viewer</text>
           <g transform="translate(0,10)">
             <rect fill="#ddd" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="5.507059275644962"/>
+            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="5.493687036399501"/>
           </g>
           <text class="text small" x="220" y="18">2.8%</text>
         </g>
@@ -90,7 +90,7 @@
           <text class="text small">andypf/react-data-grid</text>
           <g transform="translate(0,10)">
             <rect fill="#ddd" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="0.6156374108879825"/>
+            <rect fill="#2f80ed" height="8" rx="5" ry="5" width="0.6141425203602451"/>
           </g>
           <text class="text small" x="220" y="18">0.3%</text>
         </g>
