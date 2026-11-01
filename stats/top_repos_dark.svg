@@ -47,22 +47,22 @@
     
         <g class="fade-in" style="animation-delay: 450ms" transform="translate(25,60)">
 
-          <text class="text small">SAP-cloud-infrastructure/elektra</text>
+          <text class="text small">cobaltcore-dev/aurora-dashboard</text>
           <g transform="translate(0,10)">
             <rect fill="#333" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#fff" height="8" rx="5" ry="5" width="76.57026684825041"/>
+            <rect fill="#fff" height="8" rx="5" ry="5" width="76.82995521193541"/>
           </g>
-          <text class="text small" x="220" y="18">39.3%</text>
+          <text class="text small" x="220" y="18">39.4%</text>
         </g>
        
         <g class="fade-in" style="animation-delay: 750ms" transform="translate(25,95)">
 
-          <text class="text small">cobaltcore-dev/aurora-dashboard</text>
+          <text class="text small">SAP-cloud-infrastructure/elektra</text>
           <g transform="translate(0,10)">
             <rect fill="#333" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#fff" height="8" rx="5" ry="5" width="75.52929601341577"/>
+            <rect fill="#fff" height="8" rx="5" ry="5" width="75.62817686493044"/>
           </g>
-          <text class="text small" x="220" y="18">38.7%</text>
+          <text class="text small" x="220" y="18">38.8%</text>
         </g>
        
         <g class="fade-in" style="animation-delay: 1050ms" transform="translate(25,130)">
@@ -70,9 +70,9 @@
           <text class="text small">cloudoperators/juno</text>
           <g transform="translate(0,10)">
             <rect fill="#333" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#fff" height="8" rx="5" ry="5" width="36.80348305974705"/>
+            <rect fill="#fff" height="8" rx="5" ry="5" width="36.47845511000273"/>
           </g>
-          <text class="text small" x="220" y="18">18.9%</text>
+          <text class="text small" x="220" y="18">18.7%</text>
         </g>
        
         <g class="fade-in" style="animation-delay: 1350ms" transform="translate(25,165)">
@@ -80,7 +80,7 @@
           <text class="text small">andypf/json-viewer</text>
           <g transform="translate(0,10)">
             <rect fill="#333" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#fff" height="8" rx="5" ry="5" width="5.483905088016964"/>
+            <rect fill="#fff" height="8" rx="5" ry="5" width="5.458345734896083"/>
           </g>
           <text class="text small" x="220" y="18">2.8%</text>
         </g>
@@ -90,7 +90,7 @@
           <text class="text small">andypf/react-data-grid</text>
           <g transform="translate(0,10)">
             <rect fill="#333" height="8" rx="5" ry="5" width="195" x="0" y="0"/>
-            <rect fill="#fff" height="8" rx="5" ry="5" width="0.6130489905698"/>
+            <rect fill="#fff" height="8" rx="5" ry="5" width="0.6050670782353389"/>
           </g>
           <text class="text small" x="220" y="18">0.3%</text>
         </g>
